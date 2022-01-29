@@ -1,0 +1,172 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  background-color: #383838;
+  align-items: center;
+}
+.header-right {
+  display: flex;
+  float: right;
+}
+
+#logoarg {
+  width: 100px;
+  height: auto;
+}
+#sns{
+    margin-right: 20px;
+    margin-left: 10px;
+    color: antiquewhite;
+    font-size: 20px;
+  }
+#sns1{
+  margin-right: 20px;
+  margin-left: 10px;
+  color: antiquewhite;
+  font-size: 20px;
+}
+#sns2{
+    margin-right: 20px;
+    margin-left: 10px;
+    color: antiquewhite;
+    font-size: 20px;
+  }#sns3{
+    margin-right: 20px;
+    margin-left: 10px;
+    color: antiquewhite;
+    font-size: 20px;
+  }
+
+
+
+
+#sign-out {
+  margin-bottom: 6px;
+  margin-right: 20px;
+  margin-left: 10px;
+}
+.jumbotron-image {
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:8rem;
+    margin-bottom: 0;
+    padding-bottom: 0;
+    
+}
+#nombre{
+margin-left: 8rem;
+align-self: center;
+
+
+}
+.fotodeperfil{
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    margin-top: -60px;
+    margin-left: 10px;
+}
+
+.mb-4{
+    color:#383838;
+}
+.info{
+    margin-left: 8rem;
+    margin-top: -1rem;
+}
+#info1{
+    margin-top: -2.3rem;
+}
+.card-title{
+    color:#2f535e;
+}
+.card-text{
+  color: #383838;
+}
+#mail{
+    color:#2f535e;
+}
+footer{ 
+    display: flex;
+    background-color: #383838;
+    border-top: 5px solid #eea500;
+    border-bottom: 5px solid #2f535e;
+}
+#footer1{  
+    background-color: #383838;
+    border-top: 10px solid;
+}
+
+.fa fa-trash, .fa fa-edit{
+    color:#2f535e;
+    
+}
+
+#icon1{
+    margin-left: 9rem;
+
+}
+.icon3{
+    float: right;
+    margin-left: 20px;
+}
+.icon4{
+    float:right;
+}
+#imgstec{
+    text-align:center;
+}
+#imgstec2{
+    text-align:center;
+}
+.tecno{
+    height:3.5rem;
+    width:auto;
+    display: inline-block;
+}
+#sp{
+    margin-left: -10px;
+}
+.logouni{
+    height: 30px;
+    width: auto;
+    margin-left: 1rem;
+    
+    
+    
+}
+@media screen and (max-width: 985px){
+    .logouni {
+         display: none;
+      }
+    }
+
+    @media screen and (max-width: 985px){
+        .logoargp {
+             display: none;
+          }
+        }
+.logoargp{
+    width:60px;
+    height: auto;
+    float:right;
+    margin-top: -1.5rem;
+    margin-right: 2rem;
+}
+#edu1{
+    float:left;
+    margin-left: 1rem;
+}
+#edu2{
+float: right;
+margin-right: 2rem;
+
+}
+ul{
+    list-style:none;
+
+}
+.text-muted{
+    color:#383838;
+}
